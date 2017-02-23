@@ -29,7 +29,7 @@
     "TestAssemblyPath": "bin",
     "TestClass": "",
     "IsManual": false,
-    "ResourceFilePath": "WebTest.resx",
+    "ResourceFilePath": "WPFTest(1).resx",
     "HasCodeBehind": false,
     "DataInfo": {
       "__type": "ArtOfTest.Common.Design.Data.DataInfo",
@@ -59,13 +59,13 @@
     "QcTestVersionStamp": 0,
     "TestLinks": [],
     "Description": "",
-    "Name": "WebTest",
+    "Name": "WPFTest(1)",
     "Owner": "",
-    "Path": "WebTest.tstest",
+    "Path": "WPFTest(1).tstest",
     "Priority": 0,
-    "TestType": 0,
-    "UniqueId": "4322b5af-55ab-455d-bdee-6b224ddff207",
-    "Id": "4322b5af-55ab-455d-bdee-6b224ddff207",
+    "TestType": 1,
+    "UniqueId": "1aed08d8-150b-40f4-a12d-f3d2a82b9921",
+    "Id": "1aed08d8-150b-40f4-a12d-f3d2a82b9921",
     "ProjectId": "25fc6c60-cc09-44a4-8140-e4d119efdf42",
     "Version": 200
   }
