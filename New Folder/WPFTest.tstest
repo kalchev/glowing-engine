@@ -70,7 +70,7 @@
     "TestAssemblyPath": "bin",
     "TestClass": "glowing_engine.WPFTest",
     "IsManual": false,
-    "ResourceFilePath": "WPFTest.resx",
+    "ResourceFilePath": "New Folder\\WPFTest.resx",
     "HasCodeBehind": true,
     "DataInfo": {
       "__type": "ArtOfTest.Common.Design.Data.DataInfo",
@@ -102,7 +102,7 @@
     "Description": "",
     "Name": "WPFTest",
     "Owner": "",
-    "Path": "WPFTest.tstest",
+    "Path": "New Folder\\WPFTest.tstest",
     "Priority": 0,
     "TestType": 1,
     "UniqueId": "0d34318d-71a9-46e3-b550-9387fad7d3a8",
