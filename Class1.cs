@@ -7,6 +7,6 @@ namespace glowing_engine
 {
     public class Class1
     {
-        // edt3
+        // edt4
     }
 }
